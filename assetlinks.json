@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ru.rushydro.car",
+    "sha256_cert_fingerprints":
+    ["81:BA:4E:FB:6B:A0:DF:C7:4A:C2:15:74:E8:94:A6:45:C3:58:1A:A9:34:22:6F:D3:4B:B4:BE:52:C8:DC:C9:44"]
+  }
+}]
